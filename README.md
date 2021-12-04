@@ -9,7 +9,8 @@
      * Optional parameter, required when data is SNAP file
      * Use either value 0 or 1. 0 is no sparse vector and 1 is sparse vector	
 	* Use sparse vector on SlashDot Zoo dataset <br>
-karate_out.txt`
+
+`karate_out.txt`
 * The output file for the karate.csv dataset
 <br>`dolphins.out_txt`
 * The output file for the dolphins.csv dataset

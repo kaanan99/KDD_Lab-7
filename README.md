@@ -1,6 +1,6 @@
 # KDD_Lab-7
 *pageRank.py*
-*Usage: python3 pageRank.py <file_path> <epsilon_value> <snap_vector>
+-Usage: python3 pageRank.py <file_path> <epsilon_value> <snap_vector>
  *file_path
   *The path to the file with the dataset
  *epsilon_value 

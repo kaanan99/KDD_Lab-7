@@ -2,7 +2,7 @@
 *pageRank.py*
 -Usage: python3 pageRank.py <file_path> <epsilon_value> <snap_vector>
  * file_path
-  * The path to the file with the dataset
+  *  The path to the file with the dataset
  * epsilon_value 
   * The value of epsilon to use as a threshold
  * snap_vector

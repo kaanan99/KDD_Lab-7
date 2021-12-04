@@ -12,15 +12,21 @@
 
 `karate_out.txt`
 * The output file for the karate.csv dataset
+
 <br>`dolphins.out_txt`
 * The output file for the dolphins.csv dataset
+
 <br>`NCAA_football_out.txt`
 * The output file for the NCAA_football.csv dataset
+
 <br>`lesmis_out.txt`
 * The output file for the lesmis.csv dataset
+
 <br>`wiki-Vote_out.txt`
 * The output file for the wiki-Vote.csv dataset
+
 <br>`p2p-Gnutella05_out.txt`
 * The output file for the p2p-Gnutella05.csv dataset
+
 <br>`soc-sign-Slashdot081106_out.txt`
 * The output file for the soc-sign-Slashdot081106.csv dataset

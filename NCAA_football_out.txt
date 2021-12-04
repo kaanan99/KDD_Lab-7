@@ -1,0 +1,576 @@
+Time to process read in data and build graph: 0.1875622272491455
+Time to compute PageRank for each node in graph: 0.00115203857421875
+Number of iterations until convergence: 2
+Threshold value: 0.0001
+
+PageRanks:
+ "Campbell" with PageRank: 0.0010274122807017545
+ "Arkansas-Pine Bluff" with PageRank: 0.0010059314954051798
+ "Savannah State" with PageRank: 0.00092577798663325
+ "Valparaiso" with PageRank: 0.0008969298245614036
+ "Idaho State" with PageRank: 0.0008833489974937345
+ "Indiana State" with PageRank: 0.0008120718462823728
+ "Western Kentucky" with PageRank: 0.0008023966165413535
+ "Iona" with PageRank: 0.0007915674603174604
+ "Howard" with PageRank: 0.0007633406432748539
+ "St. Francis (PA)" with PageRank: 0.0007548193400167086
+ "Wagner" with PageRank: 0.0007548193400167085
+ "Washington" with PageRank: 0.0007120352965747704
+ "Miami (OH)" with PageRank: 0.0007050310435178858
+ "Alcorn State" with PageRank: 0.0007020937761069341
+ "North Carolina Central" with PageRank: 0.0006975749031670085
+ "Dartmouth" with PageRank: 0.0006953558137768665
+ "Idaho" with PageRank: 0.0006874477861319968
+ "Mississippi Valley State" with PageRank: 0.0006853174603174604
+ "Southern Methodist" with PageRank: 0.0006841877420824791
+ "New Mexico State" with PageRank: 0.0006834534252297412
+ "Alabama A&M" with PageRank: 0.0006778613199665833
+ "Missouri State" with PageRank: 0.0006617063492063494
+ "North Texas" with PageRank: 0.0006584301663249033
+ "Northeastern" with PageRank: 0.0006555897319055215
+ "Murray State" with PageRank: 0.0006527412280701755
+ "Monmouth" with PageRank: 0.0006483918128654971
+ "Tennessee Tech" with PageRank: 0.0006459064327485381
+ "Washington State" with PageRank: 0.0006452850877192984
+ "Chattanooga" with PageRank: 0.0006447605756816284
+ "Louisiana-Monroe" with PageRank: 0.0006405806182121973
+ "Eastern Michigan" with PageRank: 0.0006353435672514621
+ "Iowa State" with PageRank: 0.0006341008771929826
+ "Kent State" with PageRank: 0.0006309941520467838
+ "Northern Colorado" with PageRank: 0.0006298402255639098
+ "Davidson" with PageRank: 0.0006297514619883042
+ "Sacramento State" with PageRank: 0.0006263784461152883
+ "Marist" with PageRank: 0.0006238043024227235
+ "Tulane" with PageRank: 0.0006177764486975015
+ "Butler" with PageRank: 0.0006173245614035089
+ "Texas State" with PageRank: 0.0006130639097744362
+ "Towson" with PageRank: 0.0006083619231645548
+ "Columbia" with PageRank: 0.000601702172096909
+ "North Carolina A&T" with PageRank: 0.0005955774853801171
+ "Winston-Salem" with PageRank: 0.0005955774853801171
+ "Austin Peay" with PageRank: 0.0005949561403508773
+ "Rhode Island" with PageRank: 0.0005946979190400244
+ "Texas Southern" with PageRank: 0.0005939797410192149
+ "San Diego State" with PageRank: 0.0005920213558371454
+ "Southeast Missouri State" with PageRank: 0.0005893640350877194
+ "Presbyterian" with PageRank: 0.0005807620376699325
+ "Michigan" with PageRank: 0.0005799495095547728
+ "Youngstown State" with PageRank: 0.000569747284878864
+ "Illinois State" with PageRank: 0.0005697472848788639
+ "Bowling Green" with PageRank: 0.0005653978696741856
+ "Portland State" with PageRank: 0.0005645989974937345
+ "Army" with PageRank: 0.000563098086124402
+ "Southeastern Louisiana" with PageRank: 0.0005598057644110277
+ "Eastern Illinois" with PageRank: 0.0005595394736842106
+ "Toledo" with PageRank: 0.0005585630743525481
+ "Georgetown" with PageRank: 0.0005530460767302873
+ "Cornell" with PageRank: 0.0005498642439431914
+ "Western Carolina" with PageRank: 0.0005459667160325056
+ "Indiana" with PageRank: 0.0005443689716716034
+ "Middle Tennessee State" with PageRank: 0.000543029448621554
+ "UC Davis" with PageRank: 0.0005407215956558063
+ "Alabama State" with PageRank: 0.0005330879281537177
+ "Ohio" with PageRank: 0.0005290935672514621
+ "UNLV" with PageRank: 0.00052678012776697
+ "UCF" with PageRank: 0.0005257286207944104
+ "Stephen F. Austin" with PageRank: 0.0005228881863750286
+ "Delaware State" with PageRank: 0.0005225250626566417
+ "Wyoming" with PageRank: 0.000520921731776995
+ "Memphis" with PageRank: 0.0005197733918128656
+ "Marshall" with PageRank: 0.0005197007670691882
+ "Utah State" with PageRank: 0.0005176294100636207
+ "Texas A&M" with PageRank: 0.000515520809599757
+ "UAB" with PageRank: 0.0005141893559656718
+ "Virginia Military Institute" with PageRank: 0.0005120373048004628
+ "Gardner-Webb" with PageRank: 0.0005100981620718463
+ "Tennessee" with PageRank: 0.0005099069789859265
+ "Mississippi State" with PageRank: 0.0005088554720133669
+ "Bucknell" with PageRank: 0.0005085004177109441
+ "Syracuse" with PageRank: 0.0005070075757575758
+ "New Mexico" with PageRank: 0.0005039759582522741
+ "Duquesne" with PageRank: 0.000501310568086884
+ "Akron" with PageRank: 0.0004999871838687629
+ "Charleston Southern" with PageRank: 0.0004989139515455305
+ "Morgan State" with PageRank: 0.0004980263157894738
+ "Florida International" with PageRank: 0.0004970499164578113
+ "Louisville" with PageRank: 0.0004956377686640846
+ "Duke" with PageRank: 0.0004923454469507102
+ "Citadel" with PageRank: 0.000491984806129543
+ "Nicholls State" with PageRank: 0.0004908364661654136
+ "Louisiana-Lafayette" with PageRank: 0.0004892387218045114
+ "Hawaii" with PageRank: 0.0004879904452272874
+ "Vanderbilt" with PageRank: 0.00048727226720647783
+ "Southern Miss" with PageRank: 0.000486842105263158
+ "Carthage" with PageRank: 0.00048684210526315797
+ "Cumberland University" with PageRank: 0.00048684210526315797
+ "Hofstra" with PageRank: 0.0004865782974335607
+ "Norfolk State" with PageRank: 0.0004842679615705932
+ "Stanford" with PageRank: 0.00048196817802080967
+ "UCLA" with PageRank: 0.00048089494569757737
+ "Virginia" with PageRank: 0.0004799185463659148
+ "UTEP" with PageRank: 0.00047983785220627337
+ "Lehigh" with PageRank: 0.0004790309106098581
+ "South Dakota State" with PageRank: 0.0004784095655806183
+ "Jacksonville" with PageRank: 0.00047610978203083473
+ "Temple" with PageRank: 0.0004761097820308347
+ "Princeton" with PageRank: 0.00047530284043441947
+ "Southern Utah" with PageRank: 0.00047299498746867174
+ "Delaware" with PageRank: 0.0004717467108914478
+ "Stony Brook" with PageRank: 0.00047095342522974115
+ "Minnesota" with PageRank: 0.00046971073517126157
+ "Northern Illinois" with PageRank: 0.0004672253550543025
+ "Kansas State" with PageRank: 0.00046678960659223825
+ "Purdue" with PageRank: 0.0004667008430166326
+ "Central Michigan" with PageRank: 0.0004666040100250627
+ "Fordham" with PageRank: 0.00046624895572264
+ "Nevada" with PageRank: 0.0004643042264752792
+ "Coastal Carolina" with PageRank: 0.00046332782714361665
+ "North Dakota State" with PageRank: 0.00046287593984962414
+ "Colorado" with PageRank: 0.0004626096491228071
+ "Arkansas" with PageRank: 0.00046232970246128146
+ "Arkansas State" with PageRank: 0.0004610119047619048
+ "North Carolina State" with PageRank: 0.0004606568504594821
+ "Morehead State" with PageRank: 0.00046012426900584805
+ "Notre Dame" with PageRank: 0.0004588815789473685
+ "Auburn" with PageRank: 0.00045852652464494577
+ "Wisconsin" with PageRank: 0.0004549840510366827
+ "Sam Houston State" with PageRank: 0.00045009398496240606
+ "Robert Morris" with PageRank: 0.0004494726399331663
+ "Arizona State" with PageRank: 0.00044894005847953225
+ "Baylor" with PageRank: 0.00044877060074428497
+ "Florida Atlantic" with PageRank: 0.0004485850041771095
+ "Buffalo" with PageRank: 0.00044707602339181293
+ "Northwestern State" with PageRank: 0.00044609962406015044
+ "San Jose State" with PageRank: 0.0004432591896407687
+ "Fresno State" with PageRank: 0.00044290413533834593
+ "Illinois" with PageRank: 0.00044184704184704193
+ "Eastern Kentucky" with PageRank: 0.00044050193227824813
+ "Western Illinois" with PageRank: 0.000439264828738513
+ "Hampton" with PageRank: 0.00043775584795321644
+ "Eastern Washington" with PageRank: 0.00043740886306675784
+ "East Carolina" with PageRank: 0.000437045739348371
+ "North Dakota" with PageRank: 0.00043340643274853807
+ "Kentucky" with PageRank: 0.00043001976094081363
+ "Arizona" with PageRank: 0.0004296783625730995
+ "Houston" with PageRank: 0.00042621658312447794
+ "Troy" with PageRank: 0.00042621658312447794
+ "Yale" with PageRank: 0.0004259502923976609
+ "Maryland" with PageRank: 0.0004247076023391814
+ "South Dakota" with PageRank: 0.0004237312030075189
+ "Navy" with PageRank: 0.0004224885129490393
+ "Colorado State" with PageRank: 0.00042061889134257564
+ "North Carolina" with PageRank: 0.000420358187134503
+ "Miami (FL)" with PageRank: 0.0004201670040485831
+ "Drake" with PageRank: 0.0004197368421052632
+ "South Carolina" with PageRank: 0.0004194568954437376
+ "Texas College" with PageRank: 0.0004184941520467837
+ "Tennessee State" with PageRank: 0.00041663011695906437
+ "Louisiana Tech" with PageRank: 0.00041627506265664167
+ "McNeese State" with PageRank: 0.00041600877192982463
+ "Montana State" with PageRank: 0.00041547619047619056
+ "Northern Arizona" with PageRank: 0.00041547619047619056
+ "Bryant University" with PageRank: 0.0004149436090225565
+ "Wake Forest" with PageRank: 0.0004131683375104428
+ "Clemson" with PageRank: 0.00041228070175438605
+ "North Greenville" with PageRank: 0.0004106829573934838
+ "Northwestern" with PageRank: 0.00040730994152046794
+ "Brown" with PageRank: 0.0004069548872180452
+ "South Florida" with PageRank: 0.00040589779372674113
+ "Boston College" with PageRank: 0.0004022504177109441
+ "Central Connecticut State" with PageRank: 0.0004019841269841271
+ "Dayton" with PageRank: 0.0003998538011695907
+ "Connecticut" with PageRank: 0.0003967470760233919
+ "Rutgers" with PageRank: 0.00039622256398572195
+ "Furman" with PageRank: 0.0003959562732589049
+ "Georgia Southern" with PageRank: 0.0003959562732589049
+ "Samford" with PageRank: 0.00039311583883952316
+ "Concordia College" with PageRank: 0.00039177631578947376
+ "Tennessee-Martin" with PageRank: 0.00039177631578947376
+ "Southern University" with PageRank: 0.000391154970760234
+ "LSU" with PageRank: 0.0003909637876743141
+ "Lafayette" with PageRank: 0.00038955722639933175
+ "Central State" with PageRank: 0.0003886695906432749
+ "Webber International" with PageRank: 0.0003886695906432749
+ "Jackson State" with PageRank: 0.00038804824561403513
+ "Georgia Tech" with PageRank: 0.0003861842105263158
+ "Iowa" with PageRank: 0.0003824561403508772
+ "Holy Cross" with PageRank: 0.00038210108604845453
+ "Air Force" with PageRank: 0.0003789887743835113
+ "West Virginia" with PageRank: 0.0003779372674109517
+ "Pennsylvania" with PageRank: 0.0003742898913951546
+ "Mississippi" with PageRank: 0.0003736685463659148
+ "Kansas" with PageRank: 0.0003735878522062733
+ "Pittsburgh" with PageRank: 0.0003735878522062733
+ "Albany" with PageRank: 0.0003713687628161313
+ "South Carolina State" with PageRank: 0.0003713687628161313
+ "Weber State" with PageRank: 0.00037090321958743017
+ "Virginia Tech" with PageRank: 0.00036967418546365925
+ "Oregon State" with PageRank: 0.0003678045638571955
+ "Florida A&M" with PageRank: 0.00036754385964912284
+ "Massachusetts" with PageRank: 0.00036622295832822155
+ "Maine" with PageRank: 0.00036452838097574946
+ "California" with PageRank: 0.00036257309941520473
+ "Colgate" with PageRank: 0.00036221804511278203
+ "Tulsa" with PageRank: 0.00036070906432748547
+ "William & Mary" with PageRank: 0.0003603484235063183
+ "Central Arkansas" with PageRank: 0.0003580542264752792
+ "Florida State" with PageRank: 0.00035803250112460643
+ "Western Michigan" with PageRank: 0.00035698099415204683
+ "Bethune-Cookman" with PageRank: 0.00035511695906432757
+ "Missouri" with PageRank: 0.0003532529239766082
+ "Michigan State" with PageRank: 0.0003530834662413611
+ "Sacred Heart" with PageRank: 0.00035192147034252306
+ "Adams State" with PageRank: 0.00035103383458646623
+ "Edward Waters" with PageRank: 0.00035103383458646623
+ "Liberty" with PageRank: 0.00035103383458646623
+ "Richmond" with PageRank: 0.00035059808612440197
+ "Elon" with PageRank: 0.000347921522921523
+ "Nebraska" with PageRank: 0.0003468700159489634
+ "Southern Illinois" with PageRank: 0.00034562732589048386
+ "Jacksonville State" with PageRank: 0.0003439327485380117
+ "Oklahoma State" with PageRank: 0.00034314194577352475
+ "Langston" with PageRank: 0.0003414473684210527
+ "Missouri S&T" with PageRank: 0.00033771929824561413
+ "Western Washington" with PageRank: 0.00033771929824561413
+ "Central Methodist" with PageRank: 0.0003377192982456141
+ "Concordia University (WI)" with PageRank: 0.0003377192982456141
+ "Delaware Valley" with PageRank: 0.0003377192982456141
+ "Johnson Smith" with PageRank: 0.0003377192982456141
+ "Lincoln (MO)" with PageRank: 0.0003377192982456141
+ "Pace" with PageRank: 0.0003377192982456141
+ "Shorter" with PageRank: 0.0003377192982456141
+ "Southern Oregon" with PageRank: 0.0003377192982456141
+ "Stonehill" with PageRank: 0.0003377192982456141
+ "Tuskegee" with PageRank: 0.0003377192982456141
+ "New Hampshire" with PageRank: 0.00033612155388471185
+ "Wofford" with PageRank: 0.00033578263841421745
+ "James Madison" with PageRank: 0.00033505639097744364
+ "Rice" with PageRank: 0.0003340880610617453
+ "Cal Poly" with PageRank: 0.0003334586466165414
+ "Southern Virginia" with PageRank: 0.0003323934837092732
+ "Cincinnati" with PageRank: 0.0003321271929824562
+ "Appalachian State" with PageRank: 0.0003286598270150902
+ "Brigham Young" with PageRank: 0.0003286598270150902
+ "Northern Iowa" with PageRank: 0.0003275865946918579
+ "Grambling State" with PageRank: 0.0003270676691729324
+ "Oregon" with PageRank: 0.00032529239766081875
+ "Georgia" with PageRank: 0.00032385852451641934
+ "Quincy" with PageRank: 0.00032280701754385974
+ "Ohio State" with PageRank: 0.0003207735247208932
+ "Chowan" with PageRank: 0.0003190789473684211
+ "East Central Oklahoma" with PageRank: 0.0003190789473684211
+ "Fayetteville State" with PageRank: 0.0003190789473684211
+ "Kentucky Wesleyan" with PageRank: 0.0003190789473684211
+ "Lenoir-Rhyne" with PageRank: 0.0003190789473684211
+ "Shaw" with PageRank: 0.0003190789473684211
+ "Southwest Baptist" with PageRank: 0.0003190789473684211
+ "West Chester" with PageRank: 0.0003190789473684211
+ "Western Oregon" with PageRank: 0.0003190789473684211
+ "San Diego" with PageRank: 0.00031286549707602347
+ "Ball State" with PageRank: 0.0003114533492822967
+ "Rhodes" with PageRank: 0.00030834662413609787
+ "Villanova" with PageRank: 0.00030834662413609787
+ "Clark Atlanta" with PageRank: 0.0003078947368421053
+ "Lambuth" with PageRank: 0.0003078947368421053
+ "Livingstone" with PageRank: 0.0003078947368421053
+ "Tusculum" with PageRank: 0.0003078947368421053
+ "Virginia State" with PageRank: 0.0003078947368421053
+ "Penn State" with PageRank: 0.0003066520467836258
+ "Texas Tech" with PageRank: 0.0003066520467836258
+ "Montana" with PageRank: 0.00030273279352226726
+ "Albion" with PageRank: 0.00030043859649122814
+ "Culver-Stockton" with PageRank: 0.00030043859649122814
+ "Faulkner" with PageRank: 0.00030043859649122814
+ "Humboldt State" with PageRank: 0.00030043859649122814
+ "New Mexico Highlands" with PageRank: 0.00030043859649122814
+ "St. Ambrose" with PageRank: 0.00030043859649122814
+ "St. Cloud State" with PageRank: 0.00030043859649122814
+ "Texas A&M-Kingsville" with PageRank: 0.00030043859649122814
+ "Upper Iowa" with PageRank: 0.00030043859649122814
+ "West Georgia" with PageRank: 0.00030043859649122814
+ "William Penn" with PageRank: 0.00030043859649122814
+ "Wisconsin-La Crosse" with PageRank: 0.00030043859649122814
+ "TCU" with PageRank: 0.0002990047233468287
+ "Oklahoma" with PageRank: 0.00029900472334682863
+ "Alabama" with PageRank: 0.00029757085020242917
+ "Delta State" with PageRank: 0.0002951127819548873
+ "Harvard" with PageRank: 0.0002951127819548873
+ "Mars Hill" with PageRank: 0.0002951127819548873
+ "Merrimack" with PageRank: 0.0002951127819548873
+ "Southeastern Oklahoma" with PageRank: 0.0002951127819548873
+ "Southern Connecticut State" with PageRank: 0.0002951127819548873
+ "Stillman" with PageRank: 0.0002951127819548873
+ "Texas A&M-Commerce" with PageRank: 0.0002951127819548873
+ "Angelo State" with PageRank: 0.0002911184210526316
+ "Assumption" with PageRank: 0.0002911184210526316
+ "Baker University" with PageRank: 0.0002911184210526316
+ "Bentley College" with PageRank: 0.0002911184210526316
+ "Azusa Pacific" with PageRank: 0.0002880116959064328
+ "Florida" with PageRank: 0.0002880116959064328
+ "Morehouse" with PageRank: 0.0002880116959064328
+ "USC" with PageRank: 0.0002880116959064328
+ "Benedict" with PageRank: 0.00028552631578947376
+ "Dixie State" with PageRank: 0.00028552631578947376
+ "Glenville State" with PageRank: 0.00028552631578947376
+ "Henderson State" with PageRank: 0.00028552631578947376
+ "Montana-Western" with PageRank: 0.00028552631578947376
+ "Prairie View A&M" with PageRank: 0.00028552631578947376
+ "Boise State" with PageRank: 0.0002834928229665072
+ "Texas" with PageRank: 0.0002834928229665072
+ "Central Washington" with PageRank: 0.0002791353383458647
+"Air Force" with PageRank: 0.00026315789473684215
+"Akron" with PageRank: 0.00026315789473684215
+"Alabama A&M" with PageRank: 0.00026315789473684215
+"Alabama State" with PageRank: 0.00026315789473684215
+"Alabama" with PageRank: 0.00026315789473684215
+"Albany" with PageRank: 0.00026315789473684215
+"Alcorn State" with PageRank: 0.00026315789473684215
+"Appalachian State" with PageRank: 0.00026315789473684215
+"Arizona State" with PageRank: 0.00026315789473684215
+"Arizona" with PageRank: 0.00026315789473684215
+"Arkansas State" with PageRank: 0.00026315789473684215
+"Arkansas" with PageRank: 0.00026315789473684215
+"Arkansas-Monticello" with PageRank: 0.00026315789473684215
+"Arkansas-Pine Bluff" with PageRank: 0.00026315789473684215
+"Army" with PageRank: 0.00026315789473684215
+"Auburn" with PageRank: 0.00026315789473684215
+"Austin Peay" with PageRank: 0.00026315789473684215
+"Ball State" with PageRank: 0.00026315789473684215
+"Baylor" with PageRank: 0.00026315789473684215
+"Bethune-Cookman" with PageRank: 0.00026315789473684215
+"Birmingham Southern" with PageRank: 0.00026315789473684215
+"Boise State" with PageRank: 0.00026315789473684215
+"Boston College" with PageRank: 0.00026315789473684215
+"Bowling Green" with PageRank: 0.00026315789473684215
+"Brigham Young" with PageRank: 0.00026315789473684215
+"Brown" with PageRank: 0.00026315789473684215
+"Bryant University" with PageRank: 0.00026315789473684215
+"Bucknell" with PageRank: 0.00026315789473684215
+"Buffalo" with PageRank: 0.00026315789473684215
+"Butler" with PageRank: 0.00026315789473684215
+"Cal Poly" with PageRank: 0.00026315789473684215
+"California" with PageRank: 0.00026315789473684215
+"Campbell" with PageRank: 0.00026315789473684215
+"Central Arkansas" with PageRank: 0.00026315789473684215
+"Central Connecticut State" with PageRank: 0.00026315789473684215
+"Central Michigan" with PageRank: 0.00026315789473684215
+"Charleston Southern" with PageRank: 0.00026315789473684215
+"Chattanooga" with PageRank: 0.00026315789473684215
+"Cincinnati" with PageRank: 0.00026315789473684215
+"Citadel" with PageRank: 0.00026315789473684215
+"Clemson" with PageRank: 0.00026315789473684215
+"Coastal Carolina" with PageRank: 0.00026315789473684215
+"Colgate" with PageRank: 0.00026315789473684215
+"Colorado State" with PageRank: 0.00026315789473684215
+"Colorado" with PageRank: 0.00026315789473684215
+"Columbia" with PageRank: 0.00026315789473684215
+"Connecticut" with PageRank: 0.00026315789473684215
+"Cornell" with PageRank: 0.00026315789473684215
+"Davidson" with PageRank: 0.00026315789473684215
+"Dayton" with PageRank: 0.00026315789473684215
+"Delaware State" with PageRank: 0.00026315789473684215
+"Delaware" with PageRank: 0.00026315789473684215
+"Drake" with PageRank: 0.00026315789473684215
+"Duke" with PageRank: 0.00026315789473684215
+"Duquesne" with PageRank: 0.00026315789473684215
+"East Carolina" with PageRank: 0.00026315789473684215
+"Eastern Illinois" with PageRank: 0.00026315789473684215
+"Eastern Kentucky" with PageRank: 0.00026315789473684215
+"Eastern Michigan" with PageRank: 0.00026315789473684215
+"Eastern Washington" with PageRank: 0.00026315789473684215
+"Edward Waters" with PageRank: 0.00026315789473684215
+"Elon" with PageRank: 0.00026315789473684215
+"Fayetteville State" with PageRank: 0.00026315789473684215
+"Florida A&M" with PageRank: 0.00026315789473684215
+"Florida Atlantic" with PageRank: 0.00026315789473684215
+"Florida International" with PageRank: 0.00026315789473684215
+"Florida State" with PageRank: 0.00026315789473684215
+"Florida" with PageRank: 0.00026315789473684215
+"Fordham" with PageRank: 0.00026315789473684215
+"Franklin" with PageRank: 0.00026315789473684215
+"Fresno State" with PageRank: 0.00026315789473684215
+"Furman" with PageRank: 0.00026315789473684215
+"Gardner-Webb" with PageRank: 0.00026315789473684215
+"Georgetown" with PageRank: 0.00026315789473684215
+"Georgia Southern" with PageRank: 0.00026315789473684215
+"Georgia Tech" with PageRank: 0.00026315789473684215
+"Georgia" with PageRank: 0.00026315789473684215
+"Grambling State" with PageRank: 0.00026315789473684215
+"Hampton" with PageRank: 0.00026315789473684215
+"Harvard" with PageRank: 0.00026315789473684215
+"Hawaii" with PageRank: 0.00026315789473684215
+"Henderson State" with PageRank: 0.00026315789473684215
+"Hofstra" with PageRank: 0.00026315789473684215
+"Holy Cross" with PageRank: 0.00026315789473684215
+"Houston" with PageRank: 0.00026315789473684215
+"Howard" with PageRank: 0.00026315789473684215
+"Idaho State" with PageRank: 0.00026315789473684215
+"Idaho" with PageRank: 0.00026315789473684215
+"Illinois State" with PageRank: 0.00026315789473684215
+"Illinois" with PageRank: 0.00026315789473684215
+"Indiana" with PageRank: 0.00026315789473684215
+"Iona" with PageRank: 0.00026315789473684215
+"Iowa State" with PageRank: 0.00026315789473684215
+"Iowa" with PageRank: 0.00026315789473684215
+"Jackson State" with PageRank: 0.00026315789473684215
+"Jacksonville State" with PageRank: 0.00026315789473684215
+"Jacksonville" with PageRank: 0.00026315789473684215
+"James Madison" with PageRank: 0.00026315789473684215
+"Kansas State" with PageRank: 0.00026315789473684215
+"Kansas" with PageRank: 0.00026315789473684215
+"Kent State" with PageRank: 0.00026315789473684215
+"Kentucky" with PageRank: 0.00026315789473684215
+"LSU" with PageRank: 0.00026315789473684215
+"Lafayette" with PageRank: 0.00026315789473684215
+"Lehigh" with PageRank: 0.00026315789473684215
+"Liberty" with PageRank: 0.00026315789473684215
+"Louisiana Tech" with PageRank: 0.00026315789473684215
+"Louisiana-Lafayette" with PageRank: 0.00026315789473684215
+"Louisiana-Monroe" with PageRank: 0.00026315789473684215
+"Louisville" with PageRank: 0.00026315789473684215
+"Maine" with PageRank: 0.00026315789473684215
+"Marian" with PageRank: 0.00026315789473684215
+"Marist" with PageRank: 0.00026315789473684215
+"Marshall" with PageRank: 0.00026315789473684215
+"Maryland" with PageRank: 0.00026315789473684215
+"Massachusetts" with PageRank: 0.00026315789473684215
+"McNeese State" with PageRank: 0.00026315789473684215
+"Memphis" with PageRank: 0.00026315789473684215
+"Methodist" with PageRank: 0.00026315789473684215
+"Miami (FL)" with PageRank: 0.00026315789473684215
+"Miami (OH)" with PageRank: 0.00026315789473684215
+"Michigan State" with PageRank: 0.00026315789473684215
+"Michigan" with PageRank: 0.00026315789473684215
+"Middle Tennessee State" with PageRank: 0.00026315789473684215
+"Minnesota" with PageRank: 0.00026315789473684215
+"Mississippi State" with PageRank: 0.00026315789473684215
+"Mississippi Valley State" with PageRank: 0.00026315789473684215
+"Mississippi" with PageRank: 0.00026315789473684215
+"Missouri State" with PageRank: 0.00026315789473684215
+"Missouri" with PageRank: 0.00026315789473684215
+"Monmouth" with PageRank: 0.00026315789473684215
+"Montana State" with PageRank: 0.00026315789473684215
+"Montana" with PageRank: 0.00026315789473684215
+"Morehead State" with PageRank: 0.00026315789473684215
+"Morgan State" with PageRank: 0.00026315789473684215
+"Murray State" with PageRank: 0.00026315789473684215
+"Navy" with PageRank: 0.00026315789473684215
+"Nebraska" with PageRank: 0.00026315789473684215
+"Nevada" with PageRank: 0.00026315789473684215
+"New Hampshire" with PageRank: 0.00026315789473684215
+"New Mexico State" with PageRank: 0.00026315789473684215
+"New Mexico" with PageRank: 0.00026315789473684215
+"Nicholls State" with PageRank: 0.00026315789473684215
+"Norfolk State" with PageRank: 0.00026315789473684215
+"North Carolina A&T" with PageRank: 0.00026315789473684215
+"North Carolina Central" with PageRank: 0.00026315789473684215
+"North Carolina Pembroke" with PageRank: 0.00026315789473684215
+"North Carolina State" with PageRank: 0.00026315789473684215
+"North Carolina" with PageRank: 0.00026315789473684215
+"North Dakota State" with PageRank: 0.00026315789473684215
+"North Dakota" with PageRank: 0.00026315789473684215
+"North Texas" with PageRank: 0.00026315789473684215
+"Northeastern" with PageRank: 0.00026315789473684215
+"Northern Arizona" with PageRank: 0.00026315789473684215
+"Northern Colorado" with PageRank: 0.00026315789473684215
+"Northern Illinois" with PageRank: 0.00026315789473684215
+"Northern Iowa" with PageRank: 0.00026315789473684215
+"Northwestern State" with PageRank: 0.00026315789473684215
+"Northwestern" with PageRank: 0.00026315789473684215
+"Notre Dame" with PageRank: 0.00026315789473684215
+"Ohio State" with PageRank: 0.00026315789473684215
+"Ohio" with PageRank: 0.00026315789473684215
+"Oklahoma State" with PageRank: 0.00026315789473684215
+"Oklahoma" with PageRank: 0.00026315789473684215
+"Oregon State" with PageRank: 0.00026315789473684215
+"Oregon" with PageRank: 0.00026315789473684215
+"Penn State" with PageRank: 0.00026315789473684215
+"Pennsylvania" with PageRank: 0.00026315789473684215
+"Pittsburgh" with PageRank: 0.00026315789473684215
+"Portland State" with PageRank: 0.00026315789473684215
+"Prairie View A&M" with PageRank: 0.00026315789473684215
+"Presbyterian" with PageRank: 0.00026315789473684215
+"Princeton" with PageRank: 0.00026315789473684215
+"Purdue" with PageRank: 0.00026315789473684215
+"Rhode Island" with PageRank: 0.00026315789473684215
+"Rhodes" with PageRank: 0.00026315789473684215
+"Rice" with PageRank: 0.00026315789473684215
+"Richmond" with PageRank: 0.00026315789473684215
+"Robert Morris" with PageRank: 0.00026315789473684215
+"Rutgers" with PageRank: 0.00026315789473684215
+"Sacramento State" with PageRank: 0.00026315789473684215
+"Sacred Heart" with PageRank: 0.00026315789473684215
+"Sam Houston State" with PageRank: 0.00026315789473684215
+"Samford" with PageRank: 0.00026315789473684215
+"San Diego State" with PageRank: 0.00026315789473684215
+"San Diego" with PageRank: 0.00026315789473684215
+"San Jose State" with PageRank: 0.00026315789473684215
+"Savannah State" with PageRank: 0.00026315789473684215
+"South Carolina State" with PageRank: 0.00026315789473684215
+"South Carolina" with PageRank: 0.00026315789473684215
+"South Dakota State" with PageRank: 0.00026315789473684215
+"South Dakota" with PageRank: 0.00026315789473684215
+"South Florida" with PageRank: 0.00026315789473684215
+"Southeast Missouri State" with PageRank: 0.00026315789473684215
+"Southeastern Louisiana" with PageRank: 0.00026315789473684215
+"Southern Illinois" with PageRank: 0.00026315789473684215
+"Southern Methodist" with PageRank: 0.00026315789473684215
+"Southern Miss" with PageRank: 0.00026315789473684215
+"Southern University" with PageRank: 0.00026315789473684215
+"Southern Utah" with PageRank: 0.00026315789473684215
+"St. Francis (IL)" with PageRank: 0.00026315789473684215
+"Stanford" with PageRank: 0.00026315789473684215
+"Stephen F. Austin" with PageRank: 0.00026315789473684215
+"Stonehill" with PageRank: 0.00026315789473684215
+"Stony Brook" with PageRank: 0.00026315789473684215
+"Syracuse" with PageRank: 0.00026315789473684215
+"TCU" with PageRank: 0.00026315789473684215
+"Temple" with PageRank: 0.00026315789473684215
+"Tennessee State" with PageRank: 0.00026315789473684215
+"Tennessee Tech" with PageRank: 0.00026315789473684215
+"Tennessee" with PageRank: 0.00026315789473684215
+"Tennessee-Martin" with PageRank: 0.00026315789473684215
+"Texas A&M" with PageRank: 0.00026315789473684215
+"Texas Southern" with PageRank: 0.00026315789473684215
+"Texas State" with PageRank: 0.00026315789473684215
+"Texas Tech" with PageRank: 0.00026315789473684215
+"Texas" with PageRank: 0.00026315789473684215
+"Toledo" with PageRank: 0.00026315789473684215
+"Towson" with PageRank: 0.00026315789473684215
+"Troy" with PageRank: 0.00026315789473684215
+"Tulane" with PageRank: 0.00026315789473684215
+"Tulsa" with PageRank: 0.00026315789473684215
+"Tuskegee" with PageRank: 0.00026315789473684215
+"UAB" with PageRank: 0.00026315789473684215
+"UC Davis" with PageRank: 0.00026315789473684215
+"UCF" with PageRank: 0.00026315789473684215
+"UCLA" with PageRank: 0.00026315789473684215
+"UNLV" with PageRank: 0.00026315789473684215
+"USC" with PageRank: 0.00026315789473684215
+"UTEP" with PageRank: 0.00026315789473684215
+"Utah State" with PageRank: 0.00026315789473684215
+"Utah" with PageRank: 0.00026315789473684215
+"Valparaiso" with PageRank: 0.00026315789473684215
+"Vanderbilt" with PageRank: 0.00026315789473684215
+"Villanova" with PageRank: 0.00026315789473684215
+"Virginia Military Institute" with PageRank: 0.00026315789473684215
+"Virginia Tech" with PageRank: 0.00026315789473684215
+"Virginia" with PageRank: 0.00026315789473684215
+"Wagner" with PageRank: 0.00026315789473684215
+"Wake Forest" with PageRank: 0.00026315789473684215
+"Washburn" with PageRank: 0.00026315789473684215
+"Washington State" with PageRank: 0.00026315789473684215
+"Weber State" with PageRank: 0.00026315789473684215
+"Wesley College" with PageRank: 0.00026315789473684215
+"West Virginia" with PageRank: 0.00026315789473684215
+"Western Carolina" with PageRank: 0.00026315789473684215
+"Western Illinois" with PageRank: 0.00026315789473684215
+"Western Kentucky" with PageRank: 0.00026315789473684215
+"Western Michigan" with PageRank: 0.00026315789473684215
+"William & Mary" with PageRank: 0.00026315789473684215
+"Winston-Salem" with PageRank: 0.00026315789473684215
+"Wisconsin" with PageRank: 0.00026315789473684215
+"Wofford" with PageRank: 0.00026315789473684215
+"Wyoming" with PageRank: 0.00026315789473684215
+"Yale" with PageRank: 0.00026315789473684215
+"Youngstown State" with PageRank: 0.00026315789473684215
